@@ -1,0 +1,14 @@
+.imgCarrito {
+    width: 6rem;
+    margin-right: 2rem;
+    cursor: pointer;
+}
+
+strong {
+    font-size: 2rem;
+    margin-left: 0rem;
+    padding-right: 0;
+    cursor: pointer;
+    color: red;
+    padding: 5px;
+}
