@@ -1,4 +1,4 @@
-//Detalles de productos
+//Detalles de los productos
 
 import { useState, useEffect } from 'react'
 import { getUnProducto } from '../../asyncmock'

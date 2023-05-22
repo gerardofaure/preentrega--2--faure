@@ -1,4 +1,4 @@
-//Descripción general por producto - individual
+//Formato de presentacion individual de artículos
 
 import './ItemDetail.css'
 

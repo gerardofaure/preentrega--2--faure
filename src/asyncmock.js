@@ -1,4 +1,4 @@
-//Lista de productos
+//Mi lista de productos...
 
 export const productos = [
     { nombre: "AMPOLLETA", precio: 2000, id: "1" , marca: "Yokito Fokito", img: "../ampolleta.jpeg", idCat: "luces" },
@@ -27,7 +27,7 @@ export const getProductos = () => {
     })
 }
 
-//Creamos una nueva función similar a la anterior pero que nos retorne un solo item:
+//Funcion para retornar solo un producto
 
 export const getUnProducto = (id) => {
     return new Promise(resolve => {
@@ -38,7 +38,7 @@ export const getUnProducto = (id) => {
     })
 }
 
-//Creamos una nueva función que retorna toda la categoría. 
+//Funcion para retornar toda una categoria 
 
 export const getProductosPorCategoria = (idCategoria) => {
     return new Promise(resolve => {

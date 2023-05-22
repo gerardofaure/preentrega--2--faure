@@ -1,4 +1,4 @@
-//Producto por su categoría
+//Producto por categoría
 
 import Item from "../Item/Item"
 import './ItemList.css'

@@ -5,9 +5,6 @@ import ItemDetailContainer from './components/ItemDetailContainer/ItemDetailCont
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
 
-
-//Catálogo de productos
-
 function App() {
   return (
     <>

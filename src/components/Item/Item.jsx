@@ -1,4 +1,4 @@
-//Card indivual por producto
+//Tarjeta de Artículos
 
 import './Item.css'
 import { Link } from 'react-router-dom'
